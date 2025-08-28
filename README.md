@@ -1,6 +1,6 @@
 # 🌍 PyTel Translate
 
-### 📌🤖 T.me/PyTelTranslate
+### 📌🤖 [Telegram Bot](https://T.me/PyTelTranslateBot)
 
 PyTel Translate is a simple yet powerful translation bot designed to make multilingual communication easy and accessible.  
 It can automatically detect languages, translate text to a wide range of target languages, and provide fast responses.
